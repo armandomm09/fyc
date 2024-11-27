@@ -1,5 +1,7 @@
-### Updated README: Fall and Emotion Detection System for Elderly Care
-
+# Perceptify
+<p align="center">
+<img src="https://github.com/user-attachments/assets/74b90c01-30f9-400b-9e97-856649443762" height="500"/>
+</p>
 #### **Project Overview**
 This project provides a comprehensive solution to enhance safety and emotional well-being for the elderly in care facilities. Using IoT devices, computer vision, and AI, the system detects falls and monitors emotional states in real-time, sending automated alerts to caregivers via WhatsApp. By reducing the reliance on constant in-person monitoring, the system ensures timely intervention and improves resource allocation.
 
