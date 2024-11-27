@@ -1,4 +1,6 @@
-# IoT-Based Elderly Care Monitoring System
+# Perceptify
+
+### An IoT-Based Elderly Care Monitoring System
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/74b90c01-30f9-400b-9e97-856649443762" height="500"/>
